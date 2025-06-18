@@ -6,7 +6,7 @@
 	"author": "",
 	"scripts": {
 		"postinstall": "playwright install",
-		"test": "web-test-runner \"test/**/*.test.js\" --node-resolve --playwright --browsers chromium firefox webkit"
+		"test": "web-test-runner \"src/**/*.test.js\" --node-resolve --playwright --browsers chromium firefox webkit"
 	},
 	"devDependencies": {
 		"@esm-bundle/chai": "^4.3.4-fix.0",

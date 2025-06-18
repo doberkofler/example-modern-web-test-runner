@@ -1,5 +1,6 @@
 **/.DS_Store
 **/coverage
+**/package-lock.json
 .vscode/
 node_modules/
 .eslintcache
