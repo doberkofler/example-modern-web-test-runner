@@ -1,6 +1,10 @@
 # Purpose
-A collection of examples for the Modern Web Test runner.
+A collection of examples for the [Modern Web Test Runner](https://modern-web.dev/docs/test-runner/overview).
 
+# Examples
+
+* 1 - Writing my first test (use default CHrome and generate code coverage)
+* 2 - Using Playwright (tets on multiple browsers using Playwright)
 
 # License
 
