@@ -1,0 +1,15 @@
+{
+	"name": "example-modern-web-dev-test",
+	"version": "1.0.0",
+	"description": "",
+	"license": "ISC",
+	"author": "",
+	"scripts": {
+		"test": "web-test-runner \"test/**/*.test.js\" --node-resolve"
+	},
+	"devDependencies": {
+		"@esm-bundle/chai": "^4.3.4-fix.0",
+		"@web/test-runner": "^0.20.2",
+		"prettier": "^3.5.3"
+	}
+}
