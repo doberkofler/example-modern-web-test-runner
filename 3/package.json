@@ -5,8 +5,8 @@
 	"license": "MIT",
 	"main": "index.js",
 	"scripts": {
-		"test": "web-test-runner test/**/*.test.ts",
-		"test:watch": "web-test-runner test/**/*.test.ts --watch"
+		"test": "web-test-runner src/**/*.test.ts",
+		"test:watch": "web-test-runner src/**/*.test.ts --watch"
 	},
 	"dependencies": {
 		"react": "npm:@pika/react@16.13.1",
